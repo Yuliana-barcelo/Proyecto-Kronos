@@ -1,0 +1,11 @@
+# ============================================
+# KRONOS — Dependencias del proyecto
+# ============================================
+# Instalar con:
+#   pip install -r requirements.txt
+#
+# Ejecutar el programa con:
+#   python main.py
+# ============================================
+ 
+requests
